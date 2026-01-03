@@ -1,0 +1,6 @@
+﻿"R"= 63mm
+"E"= 2mm
+"Rr"= 5
+"N"= 22
+"M5"= 5
+"SMALL_BEARING_DEPTH"= 6MM

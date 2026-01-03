@@ -1,0 +1,1 @@
+﻿"inner_diameter"= 90mm
