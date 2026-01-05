@@ -7,6 +7,9 @@ https://www.youtube.com/watch?v=OsS9-FzKN6s
 https://uwaterloo.atlassian.net/wiki/spaces/UWRT/pages/33962263427/Cycloidal+Drive+-+Rev+1+Prototype+Journal
 https://www.youtube.com/watch?v=Nk3aaVcvbpA
 
+the main doc to follow to build the gear is a "Cycloidal Drive – StepByStep Robotics" (https://stepbystep-robotics.com/hp/robots/cycloidal-drive/)
+ pdf uploaded in this repo.
+
 To design the cyclodial drive gear in solidworks, the main idea is to first create a plan sketch, which contains the disk, housing pins, output shaft pins, input shaft and its essentric component. Then copy paste this plan to build each individual components for 3d printing. After copying the plan sketch onto a new part in solidworks, delete the sketch that are not needed and then do the extrudus.
 
 
